@@ -4,3 +4,4 @@ https://forms.gle/kKScCt8RGPSDNC4x7
 Асташов
 Кочанов
 Рахимов
+1 курс 1 группа, сдали:
