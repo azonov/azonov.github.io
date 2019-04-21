@@ -1,0 +1,14 @@
+---
+layout: default
+title: Группы
+---
+<h1>Группы</h1>
+
+<ul>
+  {% for group in site.groups %}
+    <li>
+    	<h2><a href="{{ group.url }}">{{ group.title }}</a></h2>
+    	<p>{{ group.content | markdownify }}</p>
+    </li>
+  {% endfor %}
+</ul>
