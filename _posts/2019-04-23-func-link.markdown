@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Ссылка на форму"
+date:   2019-04-23 19:25:01 +0300
+categories: results
+---
+[Ссылка](https://forms.gle/A4udu3ZzNxHz9ygM9)
