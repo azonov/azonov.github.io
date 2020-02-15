@@ -15,19 +15,19 @@ categories: results
 ## Home Screen
 
 На главном экране приложения должна быть сетка отображающая фильмы которые сохранил пользователь. Фильмы должны быть группированы по 2 табам, "Watchlist" и "Watched". Так же должна быть возможность нажать на иконку с фильмом чтобы посмотреть детали. По нажатию на поиск должны попасть на экран поиска
-![1](images/pic1.png)
+![1](https://raw.githubusercontent.com/azonov/edu/master/_posts/images/pic1.png)
 
 ## Search Screen
 
 На этом экране пользователь вводит строку поиска. Обновление поисковой выборки происходит при любом изменении строки поиска автоматически. Рузультаты поиска отображаются в виде списка фильмов с годом и страной. По нажатию на элемент списка так же попадаем на экран с деталями. По кнопке назад возвращаемся на главный экран.
-![2](images/pic2.png)
+![2](https://raw.githubusercontent.com/azonov/edu/master/_posts/images/pic2.png)
 
 ## Movie Details
 
 Экран деталей отображает детальную информацию о фильме и кнопки для изменения статуса фильма. На этом жкране должна быть картинка с обложкой фильма, название, год, страну, рейтинг и описание. 
-![3](images/pic3.png)
-![4](images/pic4.png)
-![5](images/pic5.png)
+![3](https://raw.githubusercontent.com/azonov/edu/master/_posts/images/pic3.png)
+![4](https://raw.githubusercontent.com/azonov/edu/master/_posts/images/pic4.png)
+![5](https://raw.githubusercontent.com/azonov/edu/master/_posts/images/pic5.png)
 
 ## Требования:
 
