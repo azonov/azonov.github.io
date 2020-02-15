@@ -8,7 +8,6 @@ permalink: /about/
 ### Полезности:
 
 Для подсчета времени выполнения можно посчитать разницу во времени до начала выполнения блока кода и после
-https://www.icloud.com/keynote-live/sc:0z8kfY6Jq9I7loWTrqRH6TUjcJRuf6wjfFIUFE9U-B5a8s0AE44J9NAxIBbPcZGPrrR
 ~~~cpp
 	clock_t start;
 	clock_t stop;
